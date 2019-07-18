@@ -1,0 +1,8 @@
+github.com/golang/protobuf v1.3.2 h1:6nsPYzhq5kReh6QImI3k5qWzO4PEbvbIW2cwSfR/6xs=
+github.com/golang/protobuf v1.3.2/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
+github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
+github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/thechriswalker/protoc-gen-twirp_js v0.0.0-20190627152235-0fe8731d4d8f h1:kDtcHF9yDUG0rOk+kwFNTAHJSE7eUFSRdtUm71K217A=
+github.com/thechriswalker/protoc-gen-twirp_js v0.0.0-20190627152235-0fe8731d4d8f/go.mod h1:y8JqdAcYbY1G+0ZQXwShD7RqBs8OWao99+cmCC8O09g=
+github.com/twitchtv/twirp v5.7.0+incompatible h1:9NU0Pv7g90mqNkfUSSi7rP2EsKDtO9GYKzEiOfAplgA=
+github.com/twitchtv/twirp v5.7.0+incompatible/go.mod h1:RRJoFSAmTEh2weEqWtpPE3vFK5YBhA6bqp2l1kfCC5A=
