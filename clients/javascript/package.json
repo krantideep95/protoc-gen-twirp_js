@@ -1,0 +1,21 @@
+{
+  "name": "@quantumghost/twirp",
+  "version": "0.1.0",
+  "description": "TWIRP RPC client for use with protoc-gen-twirp_js",
+  "main": "./src/index.js",
+  "browser": "./dist/main.js",
+  "repository": "https://github.com/QuantumGhost/twirp-js",
+  "author": "QuantumGhost",
+  "license": "BSD-3-Clause",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "build": "rollup src/index.js --file dist/index.js",
+    "test": "mocha tests --require esm"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "mocha": "^8.3.2",
+    "rollup": "^2.45.2"
+  }
+}
