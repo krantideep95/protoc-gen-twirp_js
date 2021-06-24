@@ -1,4 +1,4 @@
-module github.com/thechriswalker/protoc-gen-twirp_js
+module github.com/krantideep95/protoc-gen-twirp_js
 
 go 1.12
 
